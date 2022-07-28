@@ -18,7 +18,7 @@ Insertion Sort Project
 
 # Insertion Sort Aşamaları
 
-1. Öncelikle dizimizin ilk iki elemanını karsılaştırıyoruz.22 ve 27 sayıları, sıralı durumda. Daha sonra üçüncü elemanımız olan 16 ya bakıyoruz. 272den küçük olan 16 yer değiştirmeli diyoruz ve dizimiz şu hali alıyor 
+1. Öncelikle dizimizin ilk iki elemanını karsılaştırıyoruz.22 ve 27 sayıları, sıralı durumda. Daha sonra üçüncü elemanımız olan 16 ya bakıyoruz. 27'den küçük olan 16 yer değiştirmeli diyoruz ve dizimiz şu hali alıyor 
 [22,16,27,2,18,6] aynı kuralları tekrar tekrar uyguluyoruz.
 
 [22,27,16,2,18,6]
