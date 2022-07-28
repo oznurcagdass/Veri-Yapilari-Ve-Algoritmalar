@@ -39,13 +39,13 @@
 
 4. 3<7 old. 3 solda ve 0<7 old. 0 da solda
 
-       7
-      / \
-     5   8
-    /
-   1
-  / \
- 0   3  
+         7
+        / \
+       5   8
+      /
+     1
+    / \
+   0   3  
 
 
 
@@ -85,6 +85,7 @@
 
 
 8.  2<7 old 2 solda
+
            7
           / \
          5   8
@@ -95,4 +96,8 @@
         / \
        2   4
  
- "olarak tamamlanır."
+ 
+  "olarak tamamlanır."
+
+
+[patika.dev](https://www.patika.dev/tr) 
